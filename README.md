@@ -80,11 +80,17 @@ gcc maze.c -o maze
 ./maze
 
 📊 Sample Output
-<img width="487" height="307" alt="image" src="https://github.com/user-attachments/assets/5e91ea63-d4e3-4361-8514-e677f0cd4466" />
-<img width="588" height="333" alt="image" src="https://github.com/user-attachments/assets/e6901db8-4aeb-4bc9-8707-0d15d9b78a1f" />
-<img width="650" height="362" alt="image" src="https://github.com/user-attachments/assets/84531a6d-fbe7-45f5-bb75-be5b33b149d8" />
-<img width="446" height="344" alt="image" src="https://github.com/user-attachments/assets/c4a095f2-599a-4c7d-bc8d-7160eb186087" />
-<img width="448" height="360" alt="image" src="https://github.com/user-attachments/assets/4d95957d-b390-4cf7-af17-028c697725cd" />
-
+<img width="299" height="600" alt="Screenshot 2026-05-06 175255" src="https://github.com/user-attachments/assets/71228690-23a5-47b1-a132-789d687b5884" />
+<img width="347" height="309" alt="Screenshot 2026-05-06 175313" src="https://github.com/user-attachments/assets/324297d3-7744-4549-bd18-70fd200e0443" />
+<img width="347" height="309" alt="Screenshot 2026-05-06 175313" src="https://github.com/user-attachments/assets/19d989db-41d4-41b8-b4f9-06efd9578c4a" />
+<img width="347" height="309" alt="Screenshot 2026-05-06 175313" src="https://github.com/user-attachments/assets/70c60e6b-f326-4815-9d31-9733a2282c97" />
+<img width="347" height="309" alt="Screenshot 2026-05-06 175313" src="https://github.com/user-attachments/assets/dd3746e7-a12e-47ac-ad84-51d4cb2f0c7e" />
+https://1drv.ms/i/c/67eeb14ac6ed1f62/IQAq9ImAYlQ2SZYz9nno0G_4Ab19qYxAguWHg5Ev7JIOKvU?e=rBz2AR
+https://1drv.ms/i/c/67eeb14ac6ed1f62/IQB2F-uRfPX7TrktEqalHDtVAf20xITPxnxoDtPRSNdYKx4?e=0sqHOw
+https://1drv.ms/i/c/67eeb14ac6ed1f62/IQCDVn1oU5IfQL4FiDiKNpu4AaU23ayDPgVT4e6lrPZLD-c?e=LC4Kl0
+https://1drv.ms/i/c/67eeb14ac6ed1f62/IQBPXLkxOzLGQJOb-ObM72JoAfEAUGJjyHgXLJUozinVroU?e=0lbgPT
+https://1drv.ms/i/c/67eeb14ac6ed1f62/IQBd3J5iDW6vSaTmM-XMu3nOAVrCXH9lLhCddXNhaGb9roI?e=oxsyHt
+https://1drv.ms/i/c/67eeb14ac6ed1f62/IQC4uITDwkA4TI1xnbeC5KDrAXUPMUeyDNwXn986PoEwCec?e=oZVi5j
+https://1drv.ms/i/c/67eeb14ac6ed1f62/IQAIG2kLNl4ZQ4fUgJXfy0BIAY8mJvwe_2J8ewWnnUAVHUQ?e=cX0aBE
 
 
