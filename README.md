@@ -80,6 +80,11 @@ gcc maze.c -o maze
 ./maze
 
 📊 Sample Output
+<img width="487" height="307" alt="image" src="https://github.com/user-attachments/assets/5e91ea63-d4e3-4361-8514-e677f0cd4466" />
+<img width="588" height="333" alt="image" src="https://github.com/user-attachments/assets/e6901db8-4aeb-4bc9-8707-0d15d9b78a1f" />
+<img width="650" height="362" alt="image" src="https://github.com/user-attachments/assets/84531a6d-fbe7-45f5-bb75-be5b33b149d8" />
+<img width="446" height="344" alt="image" src="https://github.com/user-attachments/assets/c4a095f2-599a-4c7d-bc8d-7160eb186087" />
+<img width="448" height="360" alt="image" src="https://github.com/user-attachments/assets/4d95957d-b390-4cf7-af17-028c697725cd" />
 
 
 
