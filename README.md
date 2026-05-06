@@ -5,9 +5,9 @@ Maze Level Editor using Graph Data Structure (DSA in C)
 
 ## 👥 Team Members
 
-JESWITH VENKATA SAI.P (CDS/2025/1819)
+M.Shiva Nandheswara Reddy(CDS/2025/1801)
 
-LAKSHMAN.M (CDS/2025/1787)
+J.Kalyan ram(CDS/2025/1800)
 
 ## ❗ Problem Statement
 
