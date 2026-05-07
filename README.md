@@ -105,4 +105,4 @@ gcc maze.c -o maze
 
 <img width="383" height="470" alt="image" src="https://github.com/user-attachments/assets/8570f55c-d0bc-43ce-bec0-fe177fb9caad" />
 ##Demo Vedio
-"C:\Users\mnand\Downloads\demo video.mp4"
+https://drive.google.com/file/d/1PmHHcY-GynbPm1wboLXH9La5DjQRw_SP/view?usp=sharing
