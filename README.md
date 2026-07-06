@@ -1,4 +1,4 @@
-Maze Graph Level Editor
+# Maze Graph Level Editor
 ## 📌 Project Title
 
 Maze Level Editor using Graph Data Structure (DSA in C)
